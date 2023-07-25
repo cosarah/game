@@ -1,0 +1,36 @@
+{
+  "title": "A special experience",
+  "description": "This is an English article.",
+  "question": ["It is so ",
+  ".It feels like I'm in a desert. Then I ",
+  "around. There is/are no ",
+  ". I am in a desert!\n",
+    "There is a ",
+    " stone in my hand. Pictures of ",
+    " and ",
+    "are on the stone. It looks ",
+    "! I must get out of here! Hoping to find help, I run for ",
+    " days and get to a river. The captain of a/an ",
+    " gives me a ride. ",
+    " crocodiles are swimming around. People on the ",
+    " look ",
+    ". I ask them : \"What year is it?\"\n\"",
+    "\"they answer."
+  ],
+  "answer": [
+    "表示天气的形容词",
+    "动词",
+    "一种植物",
+    "一种液体",
+    "表示形状的形容词",
+    "动物",
+    "另一种动物",
+    "形容词",
+    "一个数字",
+    "水上交通工具",
+    "形容词，首字母大写",
+    "同种水上交通工具",
+    "形容词",
+    "正整数"
+  ]
+}
